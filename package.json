@@ -1,0 +1,20 @@
+{
+  "name": "scp",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohzd/scp.git"
+  },
+  "homepage": "https://github.com/vohzd/scp#readme",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "meilisearch": "^0.14.0",
+    "nuxt": "^2.14.6",
+    "parse-md": "^2.0.4",
+    "showdown": "^1.9.1"
+  }
+}
