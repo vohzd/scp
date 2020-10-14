@@ -1,1 +1,1 @@
-# ripwave client
+# scp
