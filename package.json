@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.12.2",
     "meilisearch": "^0.14.0",
     "nuxt": "^2.14.6",
-    "parse-md": "^2.0.4",
+    "nuxt-matomo": "^1.2.3",
     "showdown": "^1.9.1"
   }
 }
